@@ -1,0 +1,40 @@
+﻿body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.titre {
+    background-color:#9575CD;
+    height:100px;
+   
+}
+
+.titre p {
+     font-size:30px;
+    text-align:center;
+}
+
+.container {
+    background-color:#B39DDB;
+    height:290px;
+    
+}
+
+.button {
+    text-align:center;
+}
+
+.footer {
+    background-color:#EDE7F6;
+    height:50px;
+    text-align:center;
+}
+
+.column1 {
+    width:500px;
+    font:bold;
+}
+
+.column2 {
+    width:500px;
+    font:bold;
+}

@@ -1,0 +1,121 @@
+﻿body
+{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    font:bold;
+    font-size:xx-large;
+ 
+}
+
+.entete
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-variant:small-caps;
+    width:100%;
+    height : 80px;
+    background-color:#B0BEC5;
+    padding-top:30px;  
+    font:bold;
+
+}
+
+.image {
+    text-align:center;
+    width:450px;
+    height:100px;
+    margin-top:-25px;
+}
+
+ .principale
+{
+    float: left;
+    width: 85%;
+    height: 500px;
+    background-color: #ECEFF1;
+}
+
+ .leftColumn
+{
+    float: left;
+    width: 15%;
+    height: 500px;
+    background-color: #CFD8DC;
+}
+
+.piedDePage
+{
+    clear:both;
+    height :60px;
+    background-color:#B0BEC5;   
+    text-align:right;
+}
+.txtPrésentation
+{
+ font-family:Arial, Helvetica, sans-serif;
+     font:bold;
+ font-size:x-large;
+   }
+
+.txtPiedPage
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:medium;
+    width: 181px;
+        font:bold;
+}
+.txtAlign
+{
+    
+    margin:auto ;
+    padding :auto;
+   font-family:Arial, Helvetica, sans-serif;
+    font-size:large;
+        font:bold;
+    
+}
+.defaut
+{
+    width:auto;
+    background-color:#ECEFF1;
+    height:470px;
+    font-size:20px;
+    
+}
+
+.menu {
+    font-size:20px;
+    margin-left:20px;
+    margin-top:30px;
+    text-align:left;
+   line-height:50px;
+}
+
+p {
+    font-size:20px;
+    font:bold;
+    text-align:left;
+    margin-left:20px;
+}
+
+a {
+    color:black;
+}
+
+a:hover {
+    color:white;
+}
+
+.tab {
+    text-align:left;
+    margin-top:7%;
+    margin-left:30%;
+}
+
+.calendar {
+    text-align:left;
+    
+    margin-left:30%;
+}
+
+
+

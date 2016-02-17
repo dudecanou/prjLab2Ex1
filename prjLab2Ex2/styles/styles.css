@@ -1,0 +1,25 @@
+﻿body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.titre {
+    background-color:#9575CD;
+    height:50px;
+}
+
+.titre p {
+     font-size:30px;
+    text-align:center;
+}
+
+.image {
+        text-align:center;
+
+}
+
+.imageTaille {
+    width:500px;
+    height:300px;
+
+}
+
